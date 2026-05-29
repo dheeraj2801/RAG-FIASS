@@ -12,8 +12,7 @@ for embeddings and FastAPI for the application API.
 - **Clone & enter project:**
 
 ```bash
-git clone <repo-url> your-folder
-cd your-folder
+git clone https://github.com/dheeraj2801/RAG-FIASS.git
 ```
 
 - **Create a virtualenv (if you don't have one):**
